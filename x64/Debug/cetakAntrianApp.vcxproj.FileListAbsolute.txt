@@ -1,0 +1,12 @@
+C:\Users\HP\Downloads\Compressed\myHealth-master\myHealth-master\x64\Debug\cetakAntrianApp.vcxprojAssemblyReference.cache
+C:\Users\HP\Downloads\Compressed\myHealth-master\myHealth-master\x64\Debug\cetakAntrianApp.MyForm.resources
+C:\Users\HP\Downloads\Compressed\myHealth-master\myHealth-master\x64\Debug\cetakAntrianApp.MyForm3.resources
+C:\Users\HP\Downloads\Compressed\myHealth-master\myHealth-master\x64\Debug\cetakAntrianApp.MyUserControl.resources
+C:\Users\HP\Downloads\Compressed\myHealth-master\myHealth-master\x64\Debug\cetakAntrianApp.MyUserControl1.resources
+C:\Users\HP\Downloads\Compressed\myHealth-master\myHealth-master\x64\Debug\cetakAntrianApp.MyUserControl2.resources
+C:\Users\HP\Downloads\Compressed\myHealth-master\myHealth-master\x64\Debug\cetakAntrianApp.MyUserControl3.resources
+C:\Users\HP\Downloads\Compressed\myHealth-master\myHealth-master\x64\Debug\cetakAntrianApp.vcxproj.GenerateResource.cache
+C:\Users\HP\Downloads\Compressed\myHealth-master\myHealth-master\x64\Debug\cetakAntrianApp.vcxproj.CopyComplete
+C:\Users\HP\Downloads\Compressed\myHealth-master\myHealth-master\x64\Debug\cetakAntrianApp.exe
+C:\Users\HP\Downloads\Compressed\myHealth-master\myHealth-master\x64\Debug\cetakAntrianApp.pdb
+C:\Users\HP\Downloads\Compressed\myHealth-master\myHealth-master\x64\Debug\MySql.Data.dll
